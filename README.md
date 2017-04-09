@@ -1,6 +1,7 @@
-# infinitive-slider
-Understand how does the infinitive slider work
+# infinite-slider
 
-## Author Warning
+Understanding how does the infinite slider work
 
-⚠️ This repo was only for demonstrating how does the infinitive slider work, it's not optimized.
+## Disclaimer
+
+⚠️ This repo is only for demonstrating how does the infinitive slider work, the code is messy 😓
